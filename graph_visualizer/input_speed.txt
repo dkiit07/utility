@@ -1,0 +1,6 @@
+'speed'
+['Atlanta', 'Boston', 'Boulder', 'Cheyenne', 'Chicago', 'Cleveland', 'Disneyland', 'Key West', 'Miami', 'New Orleans', 'New York', 'Portland', 'San Francisco', 'Seattle', 'Yakima']
+[('Atlanta', 'Miami'), ('Atlanta', 'New Orleans'), ('Boston', 'Chicago'), ('Boston', 'Cleveland'), ('Boston', 'New York'), ('Boulder', 'Chicago'), ('Cheyenne', 'Portland'), ('Cheyenne', 'Yakima'), ('Chicago', 'Cleveland'), ('Disneyland', 'Portland'), ('Disneyland', 'San Francisco'), ('Key West', 'Miami'), ('Miami', 'New Orleans'), ('Portland', 'San Francisco'), ('Portland', 'Seattle'), ('Portland', 'Yakima'), ('Seattle', 'Yakima')]
+{('Atlanta', 'Miami'): 663, ('Atlanta', 'New Orleans'): 487, ('Boston', 'Chicago'): 982, ('Boston', 'Cleveland'): 640, ('Boston', 'New York'): 215, ('Boulder', 'Chicago'): 1130, ('Cheyenne', 'Portland'): 1162,  ('Cheyenne', 'Yakima'): 1095, ('Chicago', 'Cleveland'): 344, ('Disneyland', 'Portland'): 989, ('Disneyland', 'San Francisco'): 408, ('Key West', 'Miami'): 159, ('Miami', 'New Orleans'): 864, ('Portland', 'San Francisco'): 635, ('Portland', 'Seattle'): 173, ('Portland', 'Yakima'): 185, ('Seattle', 'Yakima'): 142}
+'Seattle'
+500
